@@ -225,7 +225,7 @@ function Main(){
         <div className="App" style={{marginTop: 50}}>
             <p style={{fontSize: 25}}>Please first play this music,</p>
             <Player url={Musics.chirin_music} />
-            <p style={{marginInline: 200, textAlign: 'justify'}}>Rasha, awal ma kenna na3ml call b sheghel hasset shi tejehek bass ken fi shi ma 3am yesmahle oktohem hayetk. call 3an call haset hale 3am
+            <p style={{marginInline: 70, textAlign: 'justify'}}>Rasha, awal ma kenna na3ml call b sheghel hasset shi tejehek bass ken fi shi ma 3am yesmahle oktohem hayetk. call 3an call haset hale 3am
                 et2arab menik aktar mtl ka2eno sert 3am bethada hale la zabbet l osas kermel tkoune ente merteha w mabsouta. lama sar forsa w 2drt hkike
                 barat sheghel hasset enno ksebet rfi2a ma knt sheyef mtla b kell hayete rfi2a b kel ma3na l kelme b mazhna w dehekna w aw2atna l helwe, hatta
                 nafseyte shu betkoun merteha me3k. <br/><br/>
