@@ -235,7 +235,9 @@ function Main(){
                 
                 ma3 l 3elem enni hatet edeme wa3ed 3 hale ma fout b 3al2a hal fatra, bass 3ale2te fike tawaret w sert 3am be2sha3ik b maneme w khayele w kif ma eftol
                 tafasilk kella rasamta b rase w sert shufa. allah yehmili yeke w yekhalile yeke w yeb3ed 3annik wled l haram, habytk min kell albe w ha dall hebbik
-                l hobb 3am thessi ya ajmal warde atafa albe b ha dene w ya ajmal bnt b nazare ana w bass.
+                l hobb 3am thessi ya ajmal warde atafa albe b ha dene w ya ajmal bnt b nazare ana w bass. <br/><br/>
+
+                Sa7 w lyom lbese 3a zaw2ik ha nkoun b mahall ktir private, ana b hmne 3younik yekono 3am yedhako.<br/> se3a 03:00 ~ 03:30 maw3adna ya ahla shi be3youne.
             </p>
             <p style={{color:'red', fontSize: 18, fontWeight: 'bold'}}>BHEBBIIIIIIIIIIIIIIIIIIIIIIIK</p>
 
